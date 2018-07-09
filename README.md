@@ -1,0 +1,1 @@
+# Traducao-Pokemon-Black-e-White-para-Portugues-Brasil
