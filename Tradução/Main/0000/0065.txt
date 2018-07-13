@@ -1,3 +1,0 @@
-\xf000봂\x0000Mic Test
-Say something into\xfffethe microphone.\xfffeThe Pokémon will start singing\xfffeif it's working.
-BACK

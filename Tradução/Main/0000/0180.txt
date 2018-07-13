@@ -1,8 +1,0 @@
-HP
-Attack
-Defense
-Speed
-Sp. Atk
-Sp. Def
-
-
