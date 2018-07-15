@@ -17,6 +17,14 @@ Após a entrega de um arquivo, alguém irá revisar o arquivo e alterar o commit
 
 Agora, só partir para o próximo arquivo :D
 
+# Significado dos códigos no arquivos
+\xfffe - Indica uma nova linha
+\xf000븁\x0000 - Nome escolhido para o personagem.
+\xf000Ā\x0001\x0000
+\xf000Ȃ\x0001\x0000
+\xf000ȁ\x0001\x0001
+\xf000ą\x0001\x0000
+
 ## Links úteis
 - Projeto de tradução iniciado no fórum Projectpokemon.
 [https://projectpokemon.org/home/forums/topic/10419-pokemon-black-and-white-translation-project/](https://projectpokemon.org/home/forums/topic/10419-pokemon-black-and-white-translation-project/)
