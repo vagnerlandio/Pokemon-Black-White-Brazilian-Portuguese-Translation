@@ -52,9 +52,15 @@ Agora, só partir para o próximo arquivo :D
 	\xf000븉\x0001\x0000
 	\xf000븉\x0001\x0001
 
+## Descrição de cada arquivo
+Como a lista de arquivo é muito grande, todas a descrição está sendo colocada em uma página separada. Segue o link para a página.
+[Descrição dos arquivos](descricao_dos_arquivos.md)
+
 ## Links úteis
-- Projeto de tradução iniciado no fórum Projectpokemon.
+- Projeto de tradução para o inglês iniciado no fórum Projectpokemon.
 [https://projectpokemon.org/home/forums/topic/10419-pokemon-black-and-white-translation-project/](https://projectpokemon.org/home/forums/topic/10419-pokemon-black-and-white-translation-project/)
+- Projeto de tradução para o português iniciado no fórum Projectpokemon.
+[https://projectpokemon.org/home/forums/topic/10518-pokemon-black-white-portuguese-translation/](https://projectpokemon.org/home/forums/topic/10518-pokemon-black-white-portuguese-translation/)
 
 ## Outras informações
 Confira as ferramentas de Romhacking para Pokémon Black/White no seguinte repositório.
