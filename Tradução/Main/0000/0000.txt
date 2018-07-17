@@ -1,63 +1,63 @@
-No Answer
-Black
-White
-Male
-Female
+Sem Resposta
+Preto
+Branco
+Masculino
+Feminino
 Battle
 Trade
-The City
-The Country
-Smart
-Athletic
+A Cidade
+O País
+Inteligente
+Atlético
 Time
-Money
-Appearance
+Dinheiro
+Aparência
 Substance
 Cool
-Cute
-Strange
+Fofo
+Estranho
 Tepig
 Oshawott
 Snivy
-The Beach
+A Praia
 A River
 The Mountains
 Classes
-Breaks
-Lunch
-Family
-Friends
+Pausas
+Almoço
+Família
+Amigos
 Self
-Spring
-Summer
-Autumn
-Winter
-Sweet
-Spicy
-Sour
-Bitter
-Fun
+Primavera
+Verão
+Outono
+Inverno
+Doce
+Picante
+Ácido
+Amargo
+Divertido
 Cool
 Kind
-Rich
-Battles
-Collecting
-The Story
+Rico
+Batalhas
+Coleccionar
+A História
 Pokémon
-English
-Math
-Science
-Social Studies
-English
-Math
-Science
-Social Studies
-Trainer
+Português
+Matemática
+Ciência
+Estudos Sociais
+Português
+Matemática
+Ciência
+Estudos Sociais
+Treinador
 Professor
 Team Plasma
 Pokémon
 Play Outside
-Shopping
+Compras
 Reading
 Video Games
 Sleeping Late
@@ -65,44 +65,44 @@ Pop
 Rock
 Jazz
 Rap
-Classical
-News
+Clássica
+Notícias
 Drama
-Comedy
-Sports
-Cartoons
-Action
+Comédia
+Esportes
+Desenhos animados
+Ação
 Sci-Fi
 Romance
 Suspense
-Comedy
+Comédia
 Horror
 Baseball
-Soccer
+Futebol
 Basketball
-Football
-Hockey
-Martial Arts
-Red
-Green
-Blue
-Yellow
-White
-Black
+Futebol americano
+Hóquei
+Artes Marciais
+Vermelho
+Verde
+Azul
+Amarelo
+Branco
+Preto
 Exercising
 Reading
-Music
-Movies
+Música
+Filmes
 Traveling
 Cooking
 Fishing
 Video Games
 Student
 Office Worker
-Creator
-Self-Employed
-Public Official
-Homemaker
+Criador
+Empregado Autónomo
+Funcionário Público
+Dona de Casa
 Artist
 Job-Hopper
 Chili
@@ -117,8 +117,8 @@ Brycen
 Iris
 Drayden
 Normal
-Fire
-Water
+Fogo
+Água
 Electric
 Grass
 Ice
@@ -127,20 +127,20 @@ Poison
 Ground
 Flying
 Psychic
-Bug
+Inseto
 Rock
 Ghost
-Dragon
+Dragão
 Dark
 Steel
-0-10 Hours
-10-20 Hours
-20-30 Hours
-30-40 Hours
-40-50 Hours
-50-60 Hours
-60-70 Hours
-70-80 Hours
-80-90 Hours
-90-100 Hours
-100+ Hours
+0-10 Horas
+10-20 Horas
+20-30 Horas
+30-40 Horas
+40-50 Horas
+50-60 Horas
+60-70 Horas
+70-80 Horas
+80-90 Horas
+90-100 Horas
+100+ Horas
